@@ -28,7 +28,7 @@ So why not have a script that handles the one-off calculations for me? :D
 
 Prepare a JSON file with the character stats:
 
-```json
+```
 {
   "level": <Character Level, int>,
   "hit dice": <Hit Dice, int>,
@@ -85,7 +85,7 @@ If no input PDF file is provided, `character-sheet.pdf` will be used as default.
 
 JSON config file:
 
-```json
+```
 {
   "level": 3,
   "hit dice": 8,
